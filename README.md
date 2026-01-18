@@ -101,6 +101,7 @@ CGPA 2.88 / 4.00
 ## ⚙️ How to Build the Site
 
 1. Clone the repository:
-   ```bash
-   git clone https://github.com/MIthun667/MIthun667.github.io
-   cd MIthun667.github.io
+```
+git clone https://github.com/MIthun667/MIthun667.github.io
+cd MIthun667.github.io
+```
